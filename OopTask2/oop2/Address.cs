@@ -1,6 +1,5 @@
 ﻿
-namespace OopTask2.vladimirlelyavin2_13fit
-{
+
     public class Address{
 
         private int index;
@@ -92,4 +91,3 @@ namespace OopTask2.vladimirlelyavin2_13fit
 
         }
     }
-}

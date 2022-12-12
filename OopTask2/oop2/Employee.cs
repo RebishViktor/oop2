@@ -1,6 +1,5 @@
 ﻿
-namespace OopTask2.vladimirlelyavin2_13fit
-{
+
     public class Employee{
 
         private String firstName;
@@ -115,4 +114,4 @@ namespace OopTask2.vladimirlelyavin2_13fit
 
         }
     }
-}
+

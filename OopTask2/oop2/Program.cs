@@ -1,6 +1,6 @@
 ﻿
 
-namespace OopTask2.vladimirlelyavin2_13fit {
+
 
     public class Program{
 
@@ -39,4 +39,4 @@ namespace OopTask2.vladimirlelyavin2_13fit {
             user.print();
         }
     }
-}
+

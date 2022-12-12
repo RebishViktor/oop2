@@ -1,6 +1,5 @@
 ﻿
-namespace OopTask2.vladimirlelyavin2_13fit
-{
+
 
     public class User {
 
@@ -74,4 +73,4 @@ namespace OopTask2.vladimirlelyavin2_13fit
                 "date of submitting form : " + formSubmittingDate);
         }
     }
-}
+

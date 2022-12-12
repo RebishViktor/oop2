@@ -1,6 +1,4 @@
 ﻿
-namespace OopTask2.vladimirlelyavin2_13fit
-{
     public class Converter {
 
         private double usd;
@@ -32,4 +30,4 @@ namespace OopTask2.vladimirlelyavin2_13fit
             return (int)Math.Round(amount * rub); 
         }
     }
-}
+
